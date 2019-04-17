@@ -1,18 +1,18 @@
-1. githubÉÏ´´½¨¹¤³Ì
-2. ÎÄ¼ş¼ĞÄÚ´ò¿ªgit bash
-3. ÊäÈëgit init
-4. ÊäÈëgit clone "/Òª¸´ÖÆµÄ¹¤³Ì/"
-5. ÊäÈëgit status²é¿´ÎÄ¼ş
-6. git add "/ÎÄ¼şÃû/"
-7. git commit -m ¡°/Ïà¹Ø±¸×¢/¡±
+1. githubä¸Šåˆ›å»ºå·¥ç¨‹
+2. æ–‡ä»¶å¤¹å†…æ‰“å¼€git bash
+3. è¾“å…¥git init
+4. è¾“å…¥git clone "/è¦å¤åˆ¶çš„å·¥ç¨‹/"
+5. è¾“å…¥git statusæŸ¥çœ‹æ–‡ä»¶
+6. git add "/æ–‡ä»¶å/"
+7. git commit -m â€œ/"ç›¸å…³å¤‡æ³¨"/â€(éœ€è¦åŒå¼•å·)
 8. git push -u origin master
-¸ã¶¨£¡
+æå®šï¼
 
-³ö´í1£ºfatal: 'origin' does not appear to be a git repository
-½â¾ö°ì·¨£ºgit remote add origin "/Òª¸´ÖÆµÄ¹¤³Ì/"
+å‡ºé”™1ï¼šfatal: 'origin' does not appear to be a git repository
+è§£å†³åŠæ³•ï¼šgit remote add origin "/è¦å¤åˆ¶çš„å·¥ç¨‹/"
 
-´íÎó2£ºerror: failed to push some refs to 'git@github.com:DingChujiang/Python-.git'
-½â¾ö°ì·¨£ºgit pull --rebase origin master
+é”™è¯¯2ï¼šerror: failed to push some refs to 'git@github.com:DingChujiang/Python-.git'
+è§£å†³åŠæ³•ï¼šgit pull --rebase origin master
 
-³ö´í3£ºÎÄ¼ş´óĞ¡³¬¹ı100M
-½â¾ö°ì·¨£ºgit lfs install(Ö»Ğè°²×°Ò»´Î) git lfs track ¡°/"ÎÄ¼ş"/"(ĞèÒªË«ÒıºÅ)£¬È»ºóÖ´ĞĞ6-8¼´¿É
+å‡ºé”™3ï¼šæ–‡ä»¶å¤§å°è¶…è¿‡100M
+è§£å†³åŠæ³•ï¼šgit lfs install(åªéœ€å®‰è£…ä¸€æ¬¡) git lfs track â€œ/"æ–‡ä»¶"/"(éœ€è¦åŒå¼•å·)ï¼Œç„¶åæ‰§è¡Œ6-8å³å¯
